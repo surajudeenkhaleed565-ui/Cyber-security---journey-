@@ -1,32 +1,32 @@
-Cyber Kay | Cybersecurity Journey
+Cyber Kay | Cybersecurity Journey 🛡️
 
-👋 Hello! I'm a cybersecurity student from Nigeria.
+Hello! I'm a cybersecurity student from Nigeria, developing practical skills in cybersecurity and digital safety.
 
-About Me
+👨‍💻 About Me
 
-I'm learning cybersecurity and developing practical skills in ethical hacking, network security, and web application security.
+- 🎓 Cybersecurity student
+- 🔐 Learning ethical hacking and network security
+- 🌐 Exploring web application security
+- 🐧 Practising Linux and Kali Linux
+- 📢 Interested in cybersecurity awareness
 
-Current Learning
+📚 Current Learning
 
-- Network security
+- Network security fundamentals
 - Web application security
-- Linux and Kali Linux
-- Cybersecurity awareness
+- Linux command-line skills
+- Secure web development
 
-Projects
+🚀 Projects
 
-- Student Attendance Management System
-- Authorized cybersecurity practice labs
+- Cybersecurity Journey: My learning notes and practical exercises.
+- Student Attendance Management System: A web application project I'm developing.
 
-Goals
+🎯 My Goals
 
 - Build practical cybersecurity projects
 - Improve my technical skills
-- Share cybersecurity awareness tips
-- Prepare for cybersecurity internships and career opportunities
+- Share useful cybersecurity tips
+- Prepare for cybersecurity internships
 
-Connect
-
-GitHub: You're already here!
-
-Learning, building, and improving one step at a time.
+I'm learning step by step and sharing my progress along the way.
